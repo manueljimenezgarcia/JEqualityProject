@@ -1,3 +1,5 @@
+package src;
+
 public class Tapa {
 
 	public static final String JAMON = "jamon";
