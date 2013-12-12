@@ -15,7 +15,7 @@ public class JE {
 		cerveza.beber();
 
 		for(int i = 0; i < 4; i++) {
-			tapa.dameTapa(i);
+			System.out.println(tapa.dameTapa(i) + " ñam ñam");
 		}
 
 		System.out.println(puticlub.getChica(0) + " te voy a dar candela");
