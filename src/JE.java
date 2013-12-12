@@ -8,6 +8,7 @@ public class JE {
 		Tapa tapa = new Tapa();
 
 		cerveza.beber();
+		cerveza.beber();
 		cerveza.rellenar();
 		cerveza.beber();
 
