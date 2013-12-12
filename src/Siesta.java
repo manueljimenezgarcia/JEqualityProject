@@ -1,6 +1,10 @@
+package src;
+
 public class Siesta{
 
-	public static String echar(){
+	public Siesta(){}
+
+	public String echar(){
 		return "zzzzzzzzzzzzzzzz";
 	}
 }
