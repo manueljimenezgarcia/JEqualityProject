@@ -6,8 +6,10 @@ public class Puticlub {
 			return "Susi";
 		}else if(op == 1){
 			return "Jeni";
-		}else{
+		}else if(op == 3){
 			return "DeboraHombres";
+		}else{
+			return "La Negra";
 		}
 	}
 }
