@@ -21,8 +21,8 @@ public class JE {
 		puticlub.getChica(0);
 
 		System.out.println("Ay que cansao estoy, mi arrrma!!!");
+		System.out.println(siesta.echar());
 
-		siesta.echar();
 	}
 
 }
