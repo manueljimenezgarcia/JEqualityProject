@@ -1,6 +1,8 @@
+package src;
+
 public class Cerveza {
 
-	private static String MARCA = "CRUZCAMPO";
+	private static String MARCA = "MAHOU";
 
 	private boolean llena = true;
 
