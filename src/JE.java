@@ -18,7 +18,7 @@ public class JE {
 			tapa.dameTapa(i);
 		}
 
-		puticlub.getChica(0);
+		System.out.println(puticlub.getChica(0) + " te voy a dar candela");
 
 		System.out.println("Ay que cansao estoy, mi arrrma!!!");
 		System.out.println(siesta.echar());
